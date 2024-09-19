@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kariba Console app", "Kariba Console app\Kariba Console app.csproj", "{B9F1FFF2-C2FA-4D17-BB9D-BFE93ED21C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F1FFF2-C2FA-4D17-BB9D-BFE93ED21C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F1FFF2-C2FA-4D17-BB9D-BFE93ED21C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F1FFF2-C2FA-4D17-BB9D-BFE93ED21C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F1FFF2-C2FA-4D17-BB9D-BFE93ED21C59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49F3348-D847-422F-9E88-6FE7C70C4B55}
+	EndGlobalSection
+EndGlobal

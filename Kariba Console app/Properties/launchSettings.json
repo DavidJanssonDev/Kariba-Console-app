@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Kariba Console app": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
